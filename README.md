@@ -1,17 +1,16 @@
 ## Dashboard Overview
 
-Bar chart.png
+Bar Chart
 
-**Description:**  
-This bar chart shows the total CO₂e Emissions (Million Metric Tons) by the top 10 Counties.
+**Description:**
+This bar chart displays the total greenhouse gas emissions (million metric tons of CO₂e) for the top 10 emitting counties in the United States.
 
-Map.png
+Map
 
-**Description:**  
-This is a map of the top 1,000 emitting U.S. locations, colored by emission intensity and sized by total CO₂e emissions.
+**Description:**
+This map highlights the top 1,000 greenhouse gas–emitting locations in the United States. Locations are colored by emission intensity and sized according to total CO₂e emissions, emphasizing geographic emission hotspots.
 
-Scatter & Pie chart.png
+Scatter & Pie Chart
 
-**Description:**  
-The scatter plot shows that Higher Populations tend to have lower emissions per person.
-The Pic chart represents that the top 10 U.S. states account for 51% of total emissions in the United States.
+**Description:**
+The scatter plot illustrates the relationship between population size and per-capita emissions, showing that higher-population areas tend to have lower emissions per person. The accompanying pie chart shows that the top 10 U.S. states collectively account for 51% of total greenhouse gas emissions in the United States.
