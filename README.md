@@ -1,4 +1,4 @@
-## Dashboard Overview
+## Bar Chart
 
 ![Top 10 Counties Bar Chart](bar_chart.png)
 
@@ -6,7 +6,7 @@
 This bar chart displays the total greenhouse gas emissions (million metric tons of CO₂e) for the top 10 emitting counties in the United States.
 
 
-## Emissions Hotspot Map
+## Emissions Heated Map
 ![Emissions Hotspot Map](map.png)
 
 **Description:**  
