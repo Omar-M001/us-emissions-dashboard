@@ -5,6 +5,10 @@ Due to workspace security restrictions, access requires a Databricks account.
 
 🔗 Databricks dashboard link: <https://dbc-0108387a-f81b.cloud.databricks.com/dashboardsv3/01f0e50a17d2196e91e74601c52abfea/published?o=368433980168844>
 
+**Note:** For reviewers without Databricks access, screenshots and walkthrough below
+show the full dashboard functionality.
+
+
 
 ## Bar Chart
 
