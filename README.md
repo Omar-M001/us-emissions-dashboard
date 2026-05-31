@@ -16,10 +16,10 @@ The dashboard was built in Databricks Lakeview. Due to workspace security restri
 
 ## Dashboard Preview
 
-### Top 10 Emitting Counties — Bar Chart
+### Top 10 Emitting Counties: Bar Chart
 ![Top 10 Counties Bar Chart](bar_chart.png)
 
-Total greenhouse gas emissions (in million metric tons of CO₂e) for the top 10 emitting counties in the United States.
+Total greenhouse gas emissions (in million metric tons of CO₂e) for the top 10 emitting countries in the United States.
 
 ---
 
@@ -33,7 +33,7 @@ The top 1,000 greenhouse gas–emitting locations in the United States. Location
 ### Population vs. Emissions & Top 10 States
 ![Scatter and Pie Chart](scatter_pie_chart.png)
 
-The scatter plot shows the relationship between population size and per-capita emissions — areas with higher populations tend to have lower emissions per person. The pie chart shows that the top 10 U.S. states account for **51% of total national greenhouse gas emissions**.
+The scatter plot shows the relationship between population size and per-capita emissions. Areas with larger populations tend to have lower per-capita emissions. The pie chart shows that the top 10 U.S. states account for **51% of total national greenhouse gas emissions**.
 
 ---
 
